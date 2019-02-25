@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recorder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sr">
+        <item>8kHz</item>
+        <item>16kHz</item>
+    </string-array>
+</resources>
